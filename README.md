@@ -28,6 +28,7 @@ Helps in understanding database design & management.
 📂 Repository Structure
 <br>
 sql-databases/
+
 │--moviedb
 │-- README.md
 <hr>
