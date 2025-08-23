@@ -4,6 +4,7 @@ This repository contains multiple SQL database projects created for practice, le
 <hr>
 <br>
 📑 Databases Included
+<br>
 
 🎬 Movie Database
 
@@ -13,7 +14,7 @@ Includes queries for top-rated movies, actor collaborations, and genre analysis.
 <hr>
 <br>
 🚀 Features
-
+<br>
 Beginner-friendly SQL schema creation scripts.
 
 Unique and different table names to avoid conflicts.
@@ -25,6 +26,7 @@ Helps in understanding database design & management.
 <br>
 
 📂 Repository Structure
+<br>
 sql-databases/
 │--moviedb
 │-- README.md
