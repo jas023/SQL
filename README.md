@@ -5,7 +5,7 @@ This repository contains multiple SQL database projects created for practice, le
 <br>
 📑 Databases Included
 <br>
-
+<br>
 🎬 Movie Database
 
 Stores movies, actors, directors, and reviews.
@@ -28,13 +28,12 @@ Helps in understanding database design & management.
 📂 Repository Structure
 <br>
 sql-databases/
-
 │--moviedb
 │-- README.md
 <hr>
 <br>
 🛠️ Technologies Used
-
+<br>
 SQL (MySQL / PostgreSQL compatible)
 
 Relational Database Concepts
