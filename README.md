@@ -43,6 +43,8 @@ sql-databases/
 |--empdb
 |--librarydb
 |--studentdb
+|--aggregate-func
+|--joins
 │-- README.md
 <hr>
 <br>
