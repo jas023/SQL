@@ -1,6 +1,6 @@
 📂 SQL Databases Collection
 
-This repository contains multiple SQL database projects created for practice, learning, and query exploration. Each database is designed with unique table structures and queries to cover different real-world scenarios.
+This repository contains multiple SQL databases and functional queries created for practice, learning, and query exploration. Each database is designed with unique table structures and queries to cover different real-world scenarios.
 <hr>
 <br>
 📑 Databases Included
