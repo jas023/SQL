@@ -35,6 +35,12 @@ Includes queries for book availability, late returns, and top readers.
 * Helps in understanding database design & management.
 <hr>
 <br>
+Queries Included
+<br>
+* Aggregate functions queries
+* Joins quesries
+<hr>
+<br>
 
 📂 Repository Structure
 <br>
